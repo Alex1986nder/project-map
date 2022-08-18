@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Arsenii Berezin",
   "scripts": {
-    "build": "webpack --progress --colors --mode production",
+    "build": "webpack --progress --mode production",
     "watch": "webpack serve --progress --open --mode development",
     "start": "yarn watch"
   },
