@@ -1,6 +1,6 @@
 <h1 style="color:#ADFF2F;" >Учебный проект курса "Web-разработчик" в Loftschool :mortar_board:</h1>
 
-:point_right: **[**"Приложение для создания отзывов на карте"**](https://alex1986nder.github.io/project-map/dist/index.html))** :open_file_folder:
+:point_right: **[**"Приложение для создания отзывов на карте"**](https://alex1986nder.github.io/project-map/dist/index.html)** :open_file_folder:
 
 ### Реализован следующий функционал: 
 
@@ -14,5 +14,5 @@
 #### Стек технологий: :briefcase:
 :small_blue_diamond:	JavaScript
 :small_blue_diamond:	API Яндекс Карты
-:small_blue_diamond: Webpack
+:small_blue_diamond:  Webpack
 :small_blue_diamond:	Babel
